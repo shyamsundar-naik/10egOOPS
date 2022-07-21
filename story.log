@@ -1,0 +1,142 @@
+INFO 2022-07-21 20:40:43,736 root  *************************************iNeuron has below courses**************************************
+INFO 2022-07-21 20:40:43,736 root  Name of course -Python with Analytics :  Fees of Course - 7000
+INFO 2022-07-21 20:40:43,736 root  Name of course -Python with FullStack Data Science :  Fees of Course - 15000
+INFO 2022-07-21 20:40:43,736 root  Name of course -Python with Networking :  Fees of Course - 7000
+INFO 2022-07-21 20:40:43,736 root  Name of course -Python with FullStack Web Development :  Fees of Course - 10000
+INFO 2022-07-21 20:40:43,736 root  Name of course -Basic Python :  Fees of Course - 3000
+INFO 2022-07-21 20:40:43,736 root  ******************************Below are list of students who enquired*******************************
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Chandu :  course intereseted in - Basic Python
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Muskaan :  course intereseted in - Python with FullStack Web Development
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Cheetah :  course intereseted in - Python with Networking
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -John :  course intereseted in - Python with FullStack Data Science
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Saajid :  course intereseted in - Python with Analytics
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Shyam :  course intereseted in - Python with FullStack Web Development
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Suraj :  course intereseted in - Python with Networking
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Ashwini :  course intereseted in - Python with FullStack Data Science
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Shraddha :  course intereseted in - Basic Python
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Varsha :  course intereseted in - Python with FullStack Web Development
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Deepak :  course intereseted in - Python with Networking
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Deepika :  course intereseted in - Python with FullStack Data Science
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Amit :  course intereseted in - Python with Analytics
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Govardan :  course intereseted in - Python with FullStack Web Development
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Keerthi :  course intereseted in - Python with Networking
+INFO 2022-07-21 20:40:43,736 root  Name of inquiry -Sachin :  course intereseted in - Python with FullStack Data Science
+INFO 2022-07-21 20:40:43,736 root  ***********************Ineuron calls these list of students who had enquired************************
+INFO 2022-07-21 20:40:43,736 root  Chandu: You had inquired for course Basic Python. Do you want to enroll?
+INFO 2022-07-21 20:40:48,080 root  Yes
+INFO 2022-07-21 20:40:59,568 root  Muskaan: You had inquired for course Python with FullStack Web Development. Do you want to enroll?
+INFO 2022-07-21 20:41:01,976 root  No
+INFO 2022-07-21 20:41:01,976 root  Cheetah: You had inquired for course Python with Networking. Do you want to enroll?
+INFO 2022-07-21 20:41:05,510 root  No
+INFO 2022-07-21 20:41:05,510 root  John: You had inquired for course Python with FullStack Data Science. Do you want to enroll?
+INFO 2022-07-21 20:41:09,346 root  Yes
+INFO 2022-07-21 20:41:18,952 root  Saajid: You had inquired for course Python with Analytics. Do you want to enroll?
+INFO 2022-07-21 20:41:22,114 root  No
+INFO 2022-07-21 20:41:22,114 root  Shyam: You had inquired for course Python with FullStack Web Development. Do you want to enroll?
+INFO 2022-07-21 20:41:28,826 root  Yes
+INFO 2022-07-21 20:41:33,212 root  Suraj: You had inquired for course Python with Networking. Do you want to enroll?
+INFO 2022-07-21 20:41:35,937 root  No
+INFO 2022-07-21 20:41:35,937 root  Ashwini: You had inquired for course Python with FullStack Data Science. Do you want to enroll?
+INFO 2022-07-21 20:41:38,475 root  No
+INFO 2022-07-21 20:41:38,475 root  Shraddha: You had inquired for course Basic Python. Do you want to enroll?
+INFO 2022-07-21 20:41:40,957 root  Yes
+INFO 2022-07-21 20:41:49,188 root  Varsha: You had inquired for course Python with FullStack Web Development. Do you want to enroll?
+INFO 2022-07-21 20:41:52,353 root  No
+INFO 2022-07-21 20:41:52,353 root  Deepak: You had inquired for course Python with Networking. Do you want to enroll?
+INFO 2022-07-21 20:41:54,756 root  Yes
+INFO 2022-07-21 20:42:05,377 root  Deepika: You had inquired for course Python with FullStack Data Science. Do you want to enroll?
+INFO 2022-07-21 20:42:14,517 root  No
+INFO 2022-07-21 20:42:14,517 root  Amit: You had inquired for course Python with Analytics. Do you want to enroll?
+INFO 2022-07-21 20:42:16,639 root  No
+INFO 2022-07-21 20:42:16,639 root  Govardan: You had inquired for course Python with FullStack Web Development. Do you want to enroll?
+INFO 2022-07-21 20:42:20,058 root  No
+INFO 2022-07-21 20:42:20,058 root  Keerthi: You had inquired for course Python with Networking. Do you want to enroll?
+INFO 2022-07-21 20:42:22,803 root  No
+INFO 2022-07-21 20:42:22,803 root  Sachin: You had inquired for course Python with FullStack Data Science. Do you want to enroll?
+INFO 2022-07-21 20:42:26,397 root  No
+INFO 2022-07-21 20:42:26,397 root  **********************************Below are the enrolled students***********************************
+INFO 2022-07-21 20:42:26,397 root  Name:Chandu| course :Basic Python| Reference by : Jack Manju| course fees: 3000
+INFO 2022-07-21 20:42:26,397 root  Name:John| course :Python with FullStack Data Science| Reference by : Charan| course fees: 15000
+INFO 2022-07-21 20:42:26,397 root  Name:Shyam| course :Python with FullStack Web Development| Reference by : Krish| course fees: 10000
+INFO 2022-07-21 20:42:26,397 root  Name:Shraddha| course :Basic Python| Reference by : Babusha| course fees: 3000
+INFO 2022-07-21 20:42:26,397 root  Name:Deepak| course :Python with Networking| Reference by : Kashmira| course fees: 7000
+INFO 2022-07-21 20:42:26,397 root  ***********************Account section checks the payment Details of student************************
+INFO 2022-07-21 20:42:26,397 root  Please enter phone number and email address of Chandu student ->
+INFO 2022-07-21 20:42:50,332 root  981238760,chadu@gmail.com
+INFO 2022-07-21 20:42:50,332 root  Has Chandu paid course fees? Total Course fees3000
+INFO 2022-07-21 20:43:00,264 root  Please Type Yes if Chandu has paid and the fees or else No. For example: Yes,200; Total CourseFees3000 ->
+INFO 2022-07-21 20:43:00,264 root  Yes,3000
+INFO 2022-07-21 20:43:00,264 root  Please enter phone number and email address of John student ->
+INFO 2022-07-21 20:43:29,114 root  9871234567,john@gmail.com
+INFO 2022-07-21 20:43:29,114 root  Has John paid course fees? Total Course fees15000
+INFO 2022-07-21 20:43:34,102 root  Please Type Yes if John has paid and the fees or else No. For example: Yes,200; Total CourseFees15000 ->
+INFO 2022-07-21 20:43:34,102 root  15000
+INFO 2022-07-21 20:43:34,102 root  Please enter phone number and email address of Shyam student ->
+INFO 2022-07-21 20:43:53,943 root  8904509198,shyamsundar.naik@gmail.com
+INFO 2022-07-21 20:43:53,943 root  Has Shyam paid course fees? Total Course fees10000
+INFO 2022-07-21 20:44:05,590 root  Please Type Yes if Shyam has paid and the fees or else No. For example: Yes,200; Total CourseFees10000 ->
+INFO 2022-07-21 20:44:05,590 root  Yes,10000
+INFO 2022-07-21 20:44:05,590 root  Please enter phone number and email address of Shraddha student ->
+INFO 2022-07-21 20:44:31,427 root  7201481719,shrada@gmail.com
+INFO 2022-07-21 20:44:31,427 root  Has Shraddha paid course fees? Total Course fees3000
+INFO 2022-07-21 20:44:38,837 root  Please Type Yes if Shraddha has paid and the fees or else No. For example: Yes,200; Total CourseFees3000 ->
+INFO 2022-07-21 20:44:38,837 root  Yes,3000
+INFO 2022-07-21 20:44:38,837 root  Please enter phone number and email address of Deepak student ->
+INFO 2022-07-21 20:45:08,366 root  7867490123,Deepak@gmailcom
+INFO 2022-07-21 20:45:08,366 root  Has Deepak paid course fees? Total Course fees7000
+INFO 2022-07-21 20:45:17,390 root  Please Type Yes if Deepak has paid and the fees or else No. For example: Yes,200; Total CourseFees7000 ->
+INFO 2022-07-21 20:45:17,390 root  Yes,7000
+INFO 2022-07-21 20:45:17,390 root  *************************************Below are Student Details**************************************
+INFO 2022-07-21 20:45:17,390 root  Name :Chandu|| Phone Number :981238760|| email id :chadu@gmail.com|| Roll no:1
+INFO 2022-07-21 20:45:17,390 root  Name :John|| Phone Number :9871234567|| email id :john@gmail.com|| Roll no:2
+INFO 2022-07-21 20:45:17,390 root  Name :Shyam|| Phone Number :8904509198|| email id :shyamsundar.naik@gmail.com|| Roll no:3
+INFO 2022-07-21 20:45:17,390 root  Name :Shraddha|| Phone Number :7201481719|| email id :shrada@gmail.com|| Roll no:4
+INFO 2022-07-21 20:45:17,390 root  Name :Deepak|| Phone Number :7867490123|| email id :Deepak@gmailcom|| Roll no:5
+INFO 2022-07-21 20:45:17,390 root  *********************************Arranging the list of instructors**********************************
+INFO 2022-07-21 20:45:17,390 root  ***********************Below are the list of instructors with specialization************************
+INFO 2022-07-21 20:45:17,390 root  Sudha has the specialization of Python with Analytics
+INFO 2022-07-21 20:45:17,390 root  Shyam has the specialization of Python with Analytics, Baisc Python, Python with FullStack Data Science
+INFO 2022-07-21 20:45:17,390 root  {'Sudha': 'Python with Analytics', 'Shyam': 'Python with Analytics, Baisc Python, Python with FullStack Data Science'}
+INFO 2022-07-21 20:45:17,390 root  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Overall Student Activitities~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO 2022-07-21 20:45:17,390 root  Chandu: Are you interested to create blog? y/n ==>
+INFO 2022-07-21 20:45:28,109 root  y
+INFO 2022-07-21 20:45:28,109 root  Please enter topic of blog:
+INFO 2022-07-21 20:45:53,708 root  Regression,10
+INFO 2022-07-21 20:45:53,708 root  Chandu: Are you interested Internship? y/n ==>
+INFO 2022-07-21 20:45:57,761 root  y
+INFO 2022-07-21 20:45:57,761 root  Please enter topic of blog:
+INFO 2022-07-21 20:46:16,510 root  Dell,datafare,Best
+INFO 2022-07-21 20:46:16,510 root  John: Are you interested to create blog? y/n ==>
+INFO 2022-07-21 20:46:21,877 root  y
+INFO 2022-07-21 20:46:21,877 root  Please enter topic of blog:
+INFO 2022-07-21 20:46:46,544 root  OLS-GLS and GMM,90
+INFO 2022-07-21 20:46:46,544 root  John: Are you interested Internship? y/n ==>
+INFO 2022-07-21 20:46:49,423 root  y
+INFO 2022-07-21 20:46:49,423 root  Please enter topic of blog:
+INFO 2022-07-21 20:47:47,950 root  Apple,Aple Soft, Hectic
+INFO 2022-07-21 20:47:47,950 root  Shyam: Are you interested to create blog? y/n ==>
+INFO 2022-07-21 20:47:53,662 root  y
+INFO 2022-07-21 20:47:53,662 root  Please enter topic of blog:
+INFO 2022-07-21 20:48:11,019 root  Digital Humanity,1000
+INFO 2022-07-21 20:48:11,019 root  Shyam: Are you interested Internship? y/n ==>
+INFO 2022-07-21 20:48:13,824 root  y
+INFO 2022-07-21 20:48:13,824 root  Please enter topic of blog:
+INFO 2022-07-21 20:48:45,838 root  iNeuron,Humanity Ratio, Awesome
+INFO 2022-07-21 20:48:45,838 root  Shraddha: Are you interested to create blog? y/n ==>
+INFO 2022-07-21 20:48:49,798 root  n
+INFO 2022-07-21 20:48:49,798 root  Shraddha: Are you interested Internship? y/n ==>
+INFO 2022-07-21 20:48:59,880 root  y
+INFO 2022-07-21 20:48:59,880 root  Please enter topic of blog:
+INFO 2022-07-21 20:49:27,024 root  chatwork, hchat, Satisfied
+INFO 2022-07-21 20:49:27,024 root  Deepak: Are you interested to create blog? y/n ==>
+INFO 2022-07-21 20:49:32,529 root  y
+INFO 2022-07-21 20:49:32,529 root  Please enter topic of blog:
+INFO 2022-07-21 20:49:55,000 root  infinity,10000
+INFO 2022-07-21 20:49:55,000 root  Deepak: Are you interested Internship? y/n ==>
+INFO 2022-07-21 20:50:00,091 root  n
+INFO 2022-07-21 20:50:00,091 root  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>List of Overall activities>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+INFO 2022-07-21 20:50:00,091 root  Blog Topic:Regression| Creator(Student): Chandu| For Blog Number of claps:10| Internship client:Dell|Internship project: datafare| Instructor Feedback: Good
+INFO 2022-07-21 20:50:00,091 root  Blog Topic:OLS-GLS and GMM| Creator(Student): John| For Blog Number of claps:90| Internship client:Apple|Internship project: Aple Soft| Instructor Feedback: Good
+INFO 2022-07-21 20:50:00,091 root  Blog Topic:Digital Humanity| Creator(Student): Shyam| For Blog Number of claps:1000| Internship client:iNeuron|Internship project: Humanity Ratio| Instructor Feedback: Good
+INFO 2022-07-21 20:50:00,091 root  Blog Topic:| Creator(Student): Shraddha| For Blog Number of claps:0| Internship client:chatwork|Internship project:  hchat| Instructor Feedback: Good
+INFO 2022-07-21 20:50:00,091 root  Blog Topic:infinity| Creator(Student): Deepak| For Blog Number of claps:10000| Internship client:|Internship project: | Instructor Feedback: Good
